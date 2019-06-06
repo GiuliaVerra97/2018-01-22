@@ -1,7 +1,8 @@
 package it.polito.tdp.seriea.model;
 
 public class Season {
-	private int season;
+	
+	private int season;		//identificata da un numero->numero della stagione
 	private String description;
 
 	public Season(int season, String description) {
